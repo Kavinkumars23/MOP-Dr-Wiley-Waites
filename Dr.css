@@ -11,6 +11,7 @@
 }
 .line{
     border: 1px solid #105692;
+    margin-top: -40px;
 }
 .home{
     font-size: large;

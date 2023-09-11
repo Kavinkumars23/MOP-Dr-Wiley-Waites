@@ -1,0 +1,141 @@
+.top{
+    background-color: #105692;
+    font-size: 7px;
+}
+.login{
+    color: #105692;
+}
+.Sign-in{
+    border-radius: 100px;
+    background-color: #d37204;
+}
+.line{
+    border: 1px solid #105692;
+}
+.home{
+    font-size: large;
+    font-weight: 600;
+    color: black;
+}
+.providers{
+    color: #105692;
+    font-size: large;
+}
+.wiley{
+    color: #6c757d;
+    font-size: large;
+}
+.wiley-card{
+    background-color: #ebf1f1;
+}
+.wiley-name{
+    font-size: xx-large;
+    font-weight: 500;
+}
+.footer{
+    background-color: #302633;
+}
+.wiley-img{
+    height: 230px;
+}
+.spine{
+    font-size: large;
+    color: #6c757d;
+}
+.procedure{
+    font-size: large;
+    font-weight: 500;
+    color: #757676;
+}
+.attach-file{
+    background-color: #ebf1f1;
+    color: #105692;
+    border: 1px solid #105692;
+    font-style: italic;
+
+}
+.icon{
+    background-color: #ebf1f1;
+    border: 2px solid #105692;
+}
+.send{
+    background-color: #105692;
+    color: white;
+    border: 1px solid #105692;  
+}
+.want{
+    font-size: large;
+    font-weight: 500;
+}
+.ask{
+    background-color: white;
+    color: #105692;
+    border: 2px solid #105692;
+    font-size: large;
+    font-weight: 500;
+}
+.top-nav{
+    font-size: large;
+    font-weight: 500;
+}
+.top-nav:hover{
+    color: #105692;
+    background-color: #c3d5e4;
+    border-bottom: 4px solid #105692;
+}
+.home-card{
+    border-bottom: 1px solid #cccccc;
+}
+.blog{
+    font-size: large;
+    font-weight: 600;
+    color: black;
+} 
+.about-me{
+    font-size: large;
+    font-weight: 500;
+    color: #105692;
+}
+.about-card{
+    background-color: #f2f9f9;
+    border: 1px solid #105692;
+}
+.mbbs{
+    font-size: medium;
+    font-weight: 500;
+}
+@media screen and (max-width:320px){
+    .header-logo{
+        width: 200px !important;
+    }
+    .header{
+        display: none;
+    }
+    .offcanvas{
+        width: 260px !important;
+    }
+    .footer-logo{
+        width: 250px;
+    }
+    .wiley-name{
+        font-size: x-large;
+        font-weight: 500;
+    }
+    .mbbs{
+        font-size: small;
+        font-weight: 500;
+    }
+    .master{
+        font-size: small;
+    }
+}
+@media screen and (max-width:768px) {
+    .header{
+        display: none;
+    }
+}
+@media screen and (max-width:1024px) {
+    .header-logo{
+        width:250px;
+    }
+}
